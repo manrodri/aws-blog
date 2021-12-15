@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "aws-blog/themes/ananke"]
+	path = aws-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "aws-blog/public"]
+	path = aws-blog/public
+	url = git@github.com:manrodri/manrodri.aws-devops.github.io.git
+	branch = main
